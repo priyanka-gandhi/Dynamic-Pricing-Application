@@ -3,12 +3,22 @@
 The idea is to create a smart service, which can act as a negotiator, for prices of food and drinks in any restaurant – pub, depending on the sales and inventory of that particular item. It will analyze the sales, curent demand, inventory and other parameters like previous orders of that customers. Also, it will decide an acceptance range for a particular item after which the users can place an offer. If the bidding price is within the acceptance range the bid will be accepted or else the bid is rejected and customer will have to quote another price to place an order. The owners will be able to add categories and list of items that are available. There wil be certain items in the menu that will be sold on mrp and bidding for those products wont be permitted. It will also do the order taking and billing from the user app itself, replacing the manual order taking and punching process.
 
 Technology and Software Details
+
 UI implemented using HTML, CSS, JS &amp; React
+
 • Server, Instance &amp; demo link created – Apache Server
- 
+
 • Database created in MYSQL
+
 • Following Libraries &amp; Frameworks are installed &amp; linked successfully
-a) NODE JS b) Laravel 5 c) Bootstrap d) jQuery
+
+a) NODE JS 
+
+b) Laravel 5 
+
+c) Bootstrap 
+
+d) jQuery
 
 Dynamic pricing is a strategy used by e-commerce and retail businesses that applies variable pricing to the goods and services provided instead of the constant fixed pricing. As more real time data is analyzed, optimal prices for good and services is calculated. The change in price over a period of time depends upon the demand for the goods or services can be as often as every month, or even every day. Dynamic pricing strategy is not a new concept. In the past, pricing has been influenced by demand and supply. Now to have optimized pricing, one can consider several other factors. Dynamic pricing as the name suggests is an automated process that focuses at more than just one or the traditional attributes. Using the data that the business has available for dynamic pricing allows them to improve and obtain faster conversion rates and find optimized pricing that considers both conversion rates and margins. Adjusting the prices to sustain in the competitive environment is essential. The flexible nature of dynamic pricing allows businesses to target specific pricing strategy goals in short period of time.
 
